@@ -1,3 +1,3 @@
 Calculator App
 
-using pycharm/visual studio
+Using pycharm/visual studio
